@@ -16,3 +16,9 @@ The Global Superstore dataset is data from a global retail chain that sells offi
 3. Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions).
     and ultimately
 4. Developing an Interactive BI Dashboard / Report.
+
+# Insights:
+1. Identified top 10 customers, top 6 profit making products, top 6 loss making products
+2. Customer Segmentation: Sum of sales by segment and Sum of sales by market
+3. Visualization: Sum of sales by region on map
+
